@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mail Family Time</string>
+    <string name="webmail_url">https://webmail.familytimeab.se/</string>
+</resources>
